@@ -1,0 +1,4 @@
+,model,best_score,best_params
+0,linear_regression,0.7834274148937727,{'normalize': False}
+1,lasso_regression,0.6014271234200345,"{'alpha': 1, 'selection': 'random'}"
+2,decision_tree,0.6498691719082073,"{'criterion': 'mse', 'splitter': 'best'}"
